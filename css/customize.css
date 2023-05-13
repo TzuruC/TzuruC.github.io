@@ -16,12 +16,20 @@
     font-weight: 300;
 }
 /* BANNER */
-
+header .container{
+    max-width: 100vw;
+}
+.row > .carousel {
+    padding: 0;
+}
 /* ----end of HEADER---- */
 
-/* ----Services---- */
-
-/* ----end of Services---- */
+/* ----Traits---- */
+section.traits{
+    margin-top: 0;
+    padding-top: 0;
+}
+/* ----end of Traits---- */
 
 /* ----Portfolio---- */
 /* ----end of Portfolio---- */
