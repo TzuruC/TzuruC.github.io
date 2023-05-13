@@ -1,5 +1,5 @@
 @charset "UTF-8";
 
-.navbar-brand{
+#mainNav .navbar-brand{
     font-family: 'Noto Sans TC', sans-serif;
 }
